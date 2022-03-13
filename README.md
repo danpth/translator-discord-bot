@@ -6,7 +6,7 @@
 
 As a japanese language learner I joined several language exchange discord servers. In particular I'm very active in an italian-japanese exchange server.
 This server has a lot of begginer level learners that often inevitably find themselves to have to rely on automatic translation machines.
-Because of that I thought it could have been educational to me (and, hopefully, useful to the server members) to try to learn how to create in python a discord that can translate a text into italian, japanese or enhlish.
+Because of that I thought it could have been educational to me (and, hopefully, useful to the server members) to try to learn how to create in python a discord that can translate a text into italian, japanese or english.
 This bot I'm showing here is the result of my experiment.
 The bot is called by the command prefix '$', followed by 'it', 'jp' or 'en', depending on the language you want your text to be translated into. You have to include the text you want to translate after the command in the same message.
 
@@ -32,10 +32,10 @@ https://discord.com/api/oauth2/authorize?client_id=897218429524803654&permission
 
 ### Warning
 
-DeepL's free plan allows the user to request up to 500.000 carachters to translate per month. Because of that, if many servers start using the bot the monthly limit might be easily reached. If you want to heavily use this bot I suggest to create your own bot on the discord developer portal and make an account on deepl.com. Then copy my code replacing the tokens. In the video linked in the following section you can see how to easily set everything up!
+DeepL's free plan allows the user to request up to 500.000 carachters to translate per month. Because of that, if many servers start using the bot the monthly limit might be easily reached. If you want to heavily use this bot I suggest to create your own bot on the discord developer portal and make an account on deepl.com . Then copy my code replacing the tokens. In the video linked in the following section you can see how to easily set everything up!
 
 ## Learning Resources
 
-- I learned everything that you need to now to start creating discord bots in python, hosting them on replit and deploy a server on UptimeRobbot watching this video on youtube: https://www.youtube.com/watch?v=SPTfmiYiuok
+- I learned everything that you need to now to start creating discord bots in python, hosting them on replit and deploy a server on UptimeRobot watching this video on youtube: https://www.youtube.com/watch?v=SPTfmiYiuok
 - https://discordpy.readthedocs.io/en/stable/index.html Discord python library documentation
 - https://www.deepl.com/en/docs-api/ Deepl API documentation
