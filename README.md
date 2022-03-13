@@ -12,7 +12,7 @@ The bot is called by the command prefix '$', followed by 'it', 'jp' or 'en', dep
 
 ### Requirements to create the bot
 
-- A discord acount to access the Discord Developer portal and creat the bot.
+- A discord acount to access the Discord Developer portal and create the bot.
 - A discord server where you can test and use your bot.
 - A replit account to host and run your code.
 - A UptimeRobot account to create a web server and keep your bot alive even when you close the replit tab (Replit keeps the app running for 30 minutes after closing the tab).
@@ -36,6 +36,6 @@ DeepL's free plan allows the user to request up to 500.000 carachters to transla
 
 ## Learning Resources
 
-- I learned everything that you need to now to start creating discord bots in python, hosting them on replit and deploy a server on UptimeRobot watching this video on youtube: https://www.youtube.com/watch?v=SPTfmiYiuok
+- I learned everything that you need to know to start creating discord bots in python, hosting them on replit and deploy a server on UptimeRobot watching this video on youtube: https://www.youtube.com/watch?v=SPTfmiYiuok
 - https://discordpy.readthedocs.io/en/stable/index.html Discord python library documentation
 - https://www.deepl.com/en/docs-api/ Deepl API documentation
