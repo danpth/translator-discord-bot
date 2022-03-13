@@ -11,16 +11,18 @@ This bot I'm showing here is the result of my experiment.
 
 ## Requirements
 
+- A discord acount to access the Discord Developer portal and creat the bot.
 - A discord server where you can test and use your bot.
--
+- A replit account to host and run your code.
+- A UptimeRobot account to create a web server and keep your bot alive even when you close the replit tab (Replit keeps the app running for 30 minutes after closing the tab).
+- A DeepL account to access their API
 
-## A look at the code
+### Libraries
 
 ## Add my bot to your discord server
 
 ## Learning Resources
 
-- I learned everything that you need to now to start creating discord bots watching this video on youtube
-- https://www.youtube.com/watch?v=SPTfmiYiuok
-  https://discordpy.readthedocs.io/en/stable/index.html Discord python library documentation
+- I learned everything that you need to now to start creating discord bots, hosting them on replit and deploy a server on UptimeRobbot watching this video on youtube: https://www.youtube.com/watch?v=SPTfmiYiuok
+- https://discordpy.readthedocs.io/en/stable/index.html Discord python library documentation
 - https://www.deepl.com/en/docs-api/ Deepl API documentation
