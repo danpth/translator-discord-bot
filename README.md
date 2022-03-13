@@ -30,6 +30,10 @@ The bot is called by the command prefix '$', followed by 'it', 'jp' or 'en', dep
 Click the following link, choose the server in which you want to add the bot and give it the required authorizations:
 https://discord.com/api/oauth2/authorize?client_id=897218429524803654&permissions=274877991936&scope=bot
 
+### Warning
+
+DeepL's free plan allows the user to request up to 500.000 carachters to translate per month. Because of that, if many servers start using the bot the monthly limit might be easily reached. If you want to heavily use this bot I suggest to create your own bot on the discord developer portal and make an account on deepl.com. Then copy my code replacing the tokens. In the video linked in the following section you can see how to easily set everything up!
+
 ## Learning Resources
 
 - I learned everything that you need to now to start creating discord bots in python, hosting them on replit and deploy a server on UptimeRobbot watching this video on youtube: https://www.youtube.com/watch?v=SPTfmiYiuok
