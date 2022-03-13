@@ -11,12 +11,16 @@ This bot I'm showing here is the result of my experiment.
 
 ## Requirements
 
+- A discord server where you can test and use your bot.
+-
+
 ## A look at the code
 
 ## Add my bot to your discord server
 
 ## Learning Resources
 
-I learned everything that you need to now to start creating discord bots watching this video on youtube https://www.youtube.com/watch?v=SPTfmiYiuok
-https://discordpy.readthedocs.io/en/stable/index.html Discord python library documentation
-https://www.deepl.com/en/docs-api/ Deepl API documentation
+- I learned everything that you need to now to start creating discord bots watching this video on youtube
+- https://www.youtube.com/watch?v=SPTfmiYiuok
+  https://discordpy.readthedocs.io/en/stable/index.html Discord python library documentation
+- https://www.deepl.com/en/docs-api/ Deepl API documentation
