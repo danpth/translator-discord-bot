@@ -1,1 +1,1 @@
-#Italian-Japanese translation bot "Koba-Chan"
+# Italian-Japanese translation bot "Koba-Chan"
